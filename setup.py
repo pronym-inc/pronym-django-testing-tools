@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-install_dependencies = []
+install_dependencies = ['factory-boy==2.12.0']
 test_dependencies = []
 
 
